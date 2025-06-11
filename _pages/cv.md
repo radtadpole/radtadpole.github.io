@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+---
 Education
 ======
 - **B.S. in Geography (in progress)**
   - **University of Oregon** - Eugene, OR
 - **A.A. in Geography**
   - **Cerritos College** - Cerritos, CA
+
+---
 
 Work experience
 ======
@@ -41,7 +43,9 @@ Cerritos Center for the Performing Arts**
 * Managed product presentations and selections with enthusiasm to
  enhance customer experience
 * Consistently met sales goals by implementing personalized sale strategies
-  
+
+---
+
 Skills
 ======
 * ArcGIS Pro/Online
