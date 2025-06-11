@@ -1,5 +1,5 @@
 ---
-# title: "Portfolio item number 1"
+title: "Winter 2025, Everyone Wants a Piece of Djibouti"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 # collection: portfolio
 ---
