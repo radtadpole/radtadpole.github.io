@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website! 
-I am a student at the University of Oregon focusing on spatial analysis, cartography, and data visualizations. My work blends technical expertise in GIS tools and mapping software with thoughtful design principles to produce maps that are not only accurate but also visually engaging. Whether exploring geographic patterns or telling a spatial story, I aim to create maps that are both informative and compelling, reflecting a strong foundation in both analytical and creative approaches to geography.
+Thanks for visiting my website!
 
-About me
-======
-Take a look at the links above to learn more about me! 
+I am a student at the University of Oregon focusing on spatial analysis, cartography, and data visualizations. I enjoy exploring the ways geography intersects with technology and design to better understand patterns, places, and people. Using tools like GIS and mapping software, I strive to turn complex data into clear, engaging visuals. Whether I’m working on a research project or a personal map, I’m always interested in how spatial thinking can help solve real-world problems and spark curiosity about the world around us.
 
-Another Paragraph
+On this site, you'll find:
+- A little bit of information about me.
+
+- Maps and graphics I've done for classes or in my free time experimenting with data and designs.
 
 Experiences
 ======
