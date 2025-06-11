@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **B.S. in Geography (in progress)**
+  - **University of Oregon** - Eugene, OR
+- **A.A. in Geography**
+  - **Cerritos College** - Cerritos, CA
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*  Front House Assistant, 
+Cerritos Center for the Performing Arts
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Practiced diplomacy and civility by engaging mindfully with patrons 
+  * Facilitated events emphasizing discrete communication with staff to
+ foster organized environments
+  * Encouraged meaningful connections with volunteers and partner
+ groups to cultivate organizational collaboration
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  Team Leader, Harkins Theaters
+
+  * Provided professional and efficient assistance to customers with
+ inquiries, grievances, and requests
+  * Promoted communication with team members by mentoring with
+ positive reinforcements
+  * Optimized workflows by adapting to changing circumstances and
+ directives
+
+* Sales Representative, Artune Jewlers
+
+  * Managed product presentations and selections with enthusiasm to
+ enhance customer experience
+  *  Consistently met sales goals by implementing personalized sale strategies
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* ArcGIS Pro/Online
+* QGIS
+* Adobe Illustrator
+* Mapbox
+* HTML, CSS, JS
+* Agisoft Metashape
+* Google & Microsoft Applications
+* Canva
+* RobloxStudio
+* Spanish (Intermediate)
